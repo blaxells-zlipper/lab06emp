@@ -1,0 +1,27 @@
+body {
+    background-color: #f8f9fa;
+}
+
+.category-thumb {
+    width: 32px;
+    height: 32px;
+    object-fit: cover;
+    border-radius: 50%;
+}
+
+.category-detail-thumb {
+    width: 60px;
+    height: 60px;
+    object-fit: cover;
+    border-radius: 50%;
+}
+
+.product-thumb {
+    height: 180px;
+    object-fit: cover;
+}
+
+.detail-image {
+    max-height: 360px;
+    object-fit: cover;
+}
