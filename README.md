@@ -1,3 +1,4 @@
+## LABORATORIO 06 DE DESARROLLO DE APLICACIONES EMPRESARIALES
 # INTEGRANTES: 
 # 1. Bellido Chambi Rony Widmer
 
@@ -20,4 +21,5 @@
 
 
 # 2. Rojas Tello, Mauricio Lucianno
+
 # 3. XIOMARA garcia silva
