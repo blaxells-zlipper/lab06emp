@@ -35,4 +35,27 @@
 
 
 # 2. Rojas Tello, Mauricio Lucianno
+
 # 3. XIOMARA garcia silva
+📸 Capturas del proyecto
+
+🔹 GET /api/genres/
+(docs/cap1-xio.png)
+
+🔹 POST /api/genres/
+(docs/cap2-xio.png)
+
+🔹 GET /api/movies/
+(docs/cap2-xio.png)
+
+🔹 POST /api/genres/
+(docs/cap3-xio.png)
+
+🔹 PUT /api/movies/1/
+(docs/cap4-xio.png)
+
+🔹 DELETE /api/movies/1/
+(docs/cap5-xio.png)
+
+🔹 Base de datos
+(docs/cap6-xio.png)
